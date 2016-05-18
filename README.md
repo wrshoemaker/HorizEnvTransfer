@@ -1,2 +1,2 @@
 # HorizEnvTransfer
-A repository of our code for out amphibian transmission project  
+A repository of our code for our amphibian transmission project  
